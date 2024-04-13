@@ -10,38 +10,38 @@ The application displays the current weather temperature, location, humidity, an
 Error handling is implemented to alert the user if they attempt to search without entering a city name.
 Technologies Used
 
-# React: JavaScript library for building user interfaces.
-# OpenWeatherMap API: Provides weather data and forecasts.
-# CSS: Styling the user interface.
+ React: JavaScript library for building user interfaces.
+ OpenWeatherMap API: Provides weather data and forecasts.
+ CSS: Styling the user interface.
 
 # Usage
 
-# Clone the repository:
+1. Clone the repository:
 bash
 Copy code
 git clone <repository-url>
 
-# Navigate to the project directory:
+2. Navigate to the project directory:
 bash
 Copy code
 cd WeatherApp
 
-# Install dependencies:
+3. Install dependencies:
 bash
 Copy code
 npm install
 
-# Start the development server:
+4. Start the development server:
 bash
 Copy code
 npm start
 
-# Open the application in your browser:
+5. Open the application in your browser:
 bash
 Copy code
 http://localhost:3000
 
-# Contributing
+6. Contributing
 Contributions are welcome! Feel free to submit bug reports or feature requests.
 
 # Fork the repository.
